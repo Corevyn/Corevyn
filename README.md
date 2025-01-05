@@ -12,14 +12,10 @@ From ideation to market-ready solutions, Corevyn offers a wide range of developm
 **Services include:**  
 - **Custom MVP Development** for quick market entry and validation.  
 - **Full-Stack Development** covering front-end, back-end, and database solutions.  
-- **Responsive Web and Mobile Designs** with a focus on user experience.  
-- **Game Development** (Unity-based) for mobile and web platforms.  
-- **Advanced 2D/3D Game Design** and immersive experiences.  
+- **Responsive Web and Mobile Designs** with a focus on user experience.   
 - **AI-Powered Solutions** such as chatbots, recommendation systems, and predictive analytics.  
 - **Admin Dashboards and Data Visualization** for actionable insights.  
 - **Cloud Infrastructure and DevOps** to ensure scalability and reliability.  
-- **Blockchain Integration** for secure, decentralized applications.  
-- **AR/VR Development** for cutting-edge virtual and augmented experiences.  
 
 ---
 
